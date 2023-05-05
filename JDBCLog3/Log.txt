@@ -1,0 +1,114 @@
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 1 linhas foram afetadas.
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:18:23 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 2 linhas foram afetadas.
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:22:25 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 2 linhas foram afetadas.
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados consultar
+INFO: Consulta realizada com sucesso
+mai. 04, 2023 8:23:46 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
+mai. 04, 2023 8:24:38 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:24:38 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 2 linhas foram afetadas.
+mai. 04, 2023 8:24:38 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
+mai. 04, 2023 8:47:48 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:47:48 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 2 linhas foram afetadas.
+mai. 04, 2023 8:47:48 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
+mai. 04, 2023 8:52:38 PM com.Interface.BancoDados conectar
+INFO: 
+ Conectado ao banco de dados
+mai. 04, 2023 8:52:38 PM com.Interface.BancoDados inserirAlterarExcluir
+INFO: Operação realizada com sucesso! 2 linhas foram afetadas.
+mai. 04, 2023 8:52:38 PM com.Interface.BancoDados desconectar
+INFO: Desconectado do Banco de Dados
